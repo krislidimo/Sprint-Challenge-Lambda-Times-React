@@ -16,4 +16,4 @@
 
  Inline Styling - Inline styling allows for quick changes directly on your Component import declaration.
 
- Styled Components - Allows for styling in JS directly in the component file. This keep everything in one place. Because Styled Components are HOCs you can give the final component a unique name and get rid of existing classNames. 
+ Styled Components - Allows for styling in JS directly in the component file. This keep everything in one place. Because Styled Components are HOCs you can give the final component a unique name and get rid of existing classNames.  
